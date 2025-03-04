@@ -2,7 +2,7 @@
 
 **Playing Fortune** is an engaging and interactive card game where fortunes are told using playing cards. Built with Unity and powered by AI, this game combines the timeless appeal of fortune-telling with modern technology to deliver a unique and captivating user experience.
 
-https://youtu.be/KraLkTLcolE
+Watch the demo video on [YouTube](https://youtu.be/KraLkTLcolE).
 
 ## Features 🚀
 
