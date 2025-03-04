@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3519f0b992e51423e8cb90d00c8e809b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1366289276928
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220295708672
+    m_Localized: 'Name:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450902736896
+    m_Localized: Write your name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760136187904
+    m_Localized: 'Gender:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032761753600
+    m_Localized: Man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056295993344
+    m_Localized: Woman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3638729629696
+    m_Localized: 'Age:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3900722634752
+    m_Localized: Write your age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4232894734336
+    m_Localized: 'Relationship:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848375291904
+    m_Localized: Exist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285237219328
+    m_Localized: 'Not:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653954289664
+    m_Localized: Uncertain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6026739834880
+    m_Localized: Send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6558598553600
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745203138560
+    m_Localized: E-mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7013038809088
+    m_Localized: Write your email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8483083640832
+    m_Localized: 'Message:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8888068857856
+    m_Localized: Write your message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15008120430592
+    m_Localized: Tell Fortune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15415609647104
+    m_Localized: Watch Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16350503231488
+    m_Localized: Playing Fortune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16905191546880
+    m_Localized: Your Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102618297786368
+    m_Localized: Logout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919733132681216
+    m_Localized: Wait for all the cards to be revealed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321529206464512
+    m_Localized: Change User
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321547678179328
+    m_Localized: After the cards are shuffled the cards are opened in pairs. If the
+      numbers of the cards are the same those cards are separated. After all the
+      cards in the deck are opened the fortune is told accordingly as each card has
+      a different meaning.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999779162513408
+    m_Localized: Fill in the fields!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999806589067264
+    m_Localized: OKEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005078162300928
+    m_Localized: Internet Connection Failed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005421172482048
+    m_Localized: Check your internet connection to enter the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005783828783104
+    m_Localized: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6826983605395456
+    m_Localized: Go Main Page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6827212681502720
+    m_Localized: Shuffle Cards and Open!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6835873730519040
+    m_Localized: 'Score:
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6856149860081664
+    m_Localized: You win the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6856361299140608
+    m_Localized: You lost the game!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

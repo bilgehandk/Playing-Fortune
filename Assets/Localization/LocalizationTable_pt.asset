@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 3519f0b992e51423e8cb90d00c8e809b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1366289276928
+    m_Localized: Carregando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220295708672
+    m_Localized: 'Nome:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450902736896
+    m_Localized: Escreva o seu nome...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760136187904
+    m_Localized: "G\xE9nero:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032761753600
+    m_Localized: Homem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056295993344
+    m_Localized: Mulher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3638729629696
+    m_Localized: 'Idade:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3900722634752
+    m_Localized: Escreva a sua idade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4232894734336
+    m_Localized: "Rela\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848375291904
+    m_Localized: Existir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285237219328
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653954289664
+    m_Localized: Incerto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6026739834880
+    m_Localized: Enviar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6558598553600
+    m_Localized: "Configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745203138560
+    m_Localized: E-mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7013038809088
+    m_Localized: Escreva seu e-mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8483083640832
+    m_Localized: 'Mensagem:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8888068857856
+    m_Localized: Escreva a sua mensagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15008120430592
+    m_Localized: Diga a sorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15415609647104
+    m_Localized: "Assistir an\xFAncios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16350503231488
+    m_Localized: Fortuna De Cartas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16905191546880
+    m_Localized: "Voc\xEA est\xE1 certo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102618297786368
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919733132681216
+    m_Localized: "Aguarde at\xE9 que todas as cartas de jogar sejam reveladas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321547678179328
+    m_Localized: "Depois de as cartas serem baralhadas as cartas s\xE3o reveladas
+      em pares. Se os n\xFAmeros das cartas forem iguais estas cartas ser\xE3o separadas.
+      Depois de todas as cartas do baralho serem reveladas a sorte \xE9 contada em
+      conformidade pois cada carta tem um significado diferente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321529206464512
+    m_Localized: Alterar Utilizador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999779162513408
+    m_Localized: Preencha os campos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999806589067264
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005078162300928
+    m_Localized: "Falha na liga\xE7\xE3o \xE0 Internet!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005421172482048
+    m_Localized: "Verifique a sua liga\xE7\xE3o \xE0 internet para entrar no jogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005783828783104
+    m_Localized: Tente novamente
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

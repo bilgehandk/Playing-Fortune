@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 15b1073b936b44ae09fc6304225fcb65
+  m_SerializeEntries:
+  - m_GUID: 7a234cfebfd444e2c8a1f66f0471341f
+    m_Address: Assets/FortunePlayingCards/Textures/Untitled_design-removebg-preview.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40be6c13b2f8049e0b4d518cfbc5c2ea
+    m_Address: Assets/FortunePlayingCards/Textures/tablebackground.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baec18bb1e70541868efe4a4da08a162
+    m_Address: Assets/FortunePlayingCards/Textures/table.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bc03e131c7ff4146a8d96cca12cc134
+    m_Address: Assets/InputSystem.inputsettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ae761d522b91e4a7caf930ab8e34d8e2, type: 2}
+    - {fileID: 11400000, guid: 3c5207804b9714c849430872822ef728, type: 2}

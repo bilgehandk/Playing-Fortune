@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AppIcon
+  m_EditorClassIdentifier: 
+  m_GroupName: AppIcon
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 921b9b79c6ae04822801ff6498332083
+  m_SerializeEntries:
+  - m_GUID: 9d2bc3e2598d9472493331f7f0ad2a6a
+    m_Address: Assets/FortunePlayingCards/Textures/bilgehan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a689c1924f2746c88cbc388b294b87a
+    m_Address: Assets/FortunePlayingCards/Textures/bilgehanpng.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 27a42cd84494a4b46a52b46f0f5e862f, type: 2}
+    - {fileID: 11400000, guid: b5c18af708f8e45a7957b928efe12dbd, type: 2}

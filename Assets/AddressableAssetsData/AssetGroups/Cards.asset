@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Cards
+  m_EditorClassIdentifier: 
+  m_GroupName: Cards
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7dbc6d6b0f5e243baba7d25b5e02f004
+  m_SerializeEntries:
+  - m_GUID: d637f081142474031ab9454a4ad1dbe4
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/2 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8f2f2f226b6245fc9d24d4a092f9c77
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/2 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d8f5b2f484b54bb98034d2777b29cac
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/2 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24dd9053aec9e44ca9fbcb613df9fdc6
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/2 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 960aed44e65ee460c9390954cbd3a584
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/3 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3339294bc88dc46cc94f8bfafc90de60
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/3 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d888b86cc218d40bfa5ab9592e28a610
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/3 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b5f585d380744e98a77c9ee7cc8049e
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/3 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf7c289dc65bb4299aac7ee50af0d151
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/4 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7783a5385a5c64f8788aa35689d2da6e
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/4 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 268fc78e6e1ba4de1abc5ac814b165b4
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/4 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb7a5a262470d4c12967061856e55f85
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/4 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f488c3a6a5d274f39af1a353d2ac7c3c
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/5 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 958115f53d5e64ebfba505c60f13229b
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/5 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3081ac02692ec4102b0f927b320503f2
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/5 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c22b40c96441e4dc8a909397e79c4487
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/5 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e94c311e69a04de28a8681ae238c509
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/6 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcb194c1da18f4e76a5d43fe4a122fd8
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/6 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fec48a62716cb4ab7810b48b636868a2
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/6 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a68c30e5ed42345f8bcbebc4d62ae544
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/6 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b636d70530894c288d198e84d36db9a
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/7 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc1a3efc736a463a8c8d4daecfec25d
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/7 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90102b055e43e4a49846d03fef265251
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/7 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e14a890306e242bf81cb9c87a19456e
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/7 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc50e93cff535467286c158f63836fcb
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/8 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5d044626ca104a938188c98f9009906
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/8 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d14db0da37c241959f8665b01bddd1d
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/8 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a1ba6d19fcc54a8c9ae74d6f6f98d68
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/8 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f196b6bcfa46445fa52cc6f6868cc2d
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/9 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2634925a4ca8f4f43a9a0f981a91d0e3
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/9 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df626f8b3ad6943cb96d5302073e191b
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/9 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5bfffff819cf44b38453981de424566
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/9 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bde45f23622a4ffa82f0c571e3eff26
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/10 clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03f4d0206d790428d8d99c1c51354b2b
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/10 diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e117e61dfc15b4daab8f1a3a731825b0
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/10 hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a16c51c906f4246d097614ae5025e485
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/10 spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68729566240f546ffa68106694e82a5b
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/ace clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e64710561302e4cc09741cadaa481fab
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/ace diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dba69a80af534aa8ad69ac8681161e6
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/ace hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da44c60ce34ea41c09c1413321ae07c6
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/ace spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bc3df1f237644198adf97380726a468
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/jack clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cbefdac5f9f24c6aafb18f9f90db9b7
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/jack diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8f33da54b8e84743a09b690d0c04a89
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/jack hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9deb2443e6f34474abe8f6841456ae4f
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/jack spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4529611dcc5c4232b4ff4f4a0c82174
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/king clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 986e86d85bbb642de8c3d091bb42771a
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/king diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fad91fbe1892540a0b3f6ddcec168501
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/king hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2af10c486d1b43b981c1b1fe9ef0c6d
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/king spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb281dcf8a0a549b5b3b8c5881e4f68d
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/queen clubs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43005b97f39234aeaa392aa0d39bb911
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/queen diamonds.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15a184c356c99413faa926a4e10f10b1
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/queen hearts.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d25fd21846e3e440a975141de2550fb5
+    m_Address: Assets/FortunePlayingCards/AssetBundles/Cards/queen spades.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e25879b0e7554ae3a58a4fd2db4fc43
+    m_Address: Assets/FortunePlayingCards/Materials/Table 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b7f16afc6eee466794c2d1ed1ed8b0c
+    m_Address: Assets/FortunePlayingCards/Materials/Table.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 071bf2162efd0421fba3cbb46cd0f476
+    m_Address: Assets/FortunePlayingCards/Models/Card.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d45888cc576c4437a5053e84d1be92b
+    m_Address: Assets/FortunePlayingCards/Models/Materials/CardMagic.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db232105dcf884adaa7b39028cf5ac3c
+    m_Address: Assets/FortunePlayingCards/Models/Materials/CardBack.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 921231612a42f4e4bb3f21e95f6b4aed
+    m_Address: Assets/FortunePlayingCards/Models/Materials/CardFront.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ee95d52f0ef749469ed5e50087c9d50
+    m_Address: Assets/FortunePlayingCards/Prefabs/Card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a269102091fa44267bcdfe56a221d7d4
+    m_Address: Assets/FortunePlayingCards/Textures/CardBack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 45192aa54f2424e4aa017e426b632144, type: 2}
+    - {fileID: 11400000, guid: c110c05d74f8847e39c40cade59af0a3, type: 2}

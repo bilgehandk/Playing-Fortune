@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ProgressBar
+  m_EditorClassIdentifier: 
+  m_GroupName: ProgressBar
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6a98a4e489da8428893452ef53fb0f52
+  m_SerializeEntries:
+  - m_GUID: 3869d3bcc0f1369469d96f23de6abd51
+    m_Address: Assets/ProgressBar/Materials/Style2ProgressMtrl.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6eafe5eafe503347a6197c31aeb4a8f
+    m_Address: Assets/ProgressBar/Materials/Style1Border.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 574172466a5d8c5468960a0207487cd7
+    m_Address: Assets/ProgressBar/Materials/Style1Bkg.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 647f2b4f2e6ce4c4c8e4788079d34b6a
+    m_Address: Assets/ProgressBar/Materials/Style1ProgressMtrl.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48036f2459428284497f20a2ea64060b
+    m_Address: Assets/ProgressBar/Materials/Style2Border.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06e9300367718c54fadb6720dd762758
+    m_Address: Assets/ProgressBar/Textures/style1/bkg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87e0c2d82c30d314287137b17124ac52
+    m_Address: Assets/ProgressBar/Textures/style1/progress.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 343dbf29e0628dc448394bf437907373
+    m_Address: Assets/ProgressBar/Textures/style1/border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a91c440c97e1284fb9ad81ad14fa46c
+    m_Address: Assets/ProgressBar/Textures/style1/mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: afb14d722f5fb44c1a1b59786b1a569a, type: 2}
+    - {fileID: 11400000, guid: db7c4550d4c354205b9ba2e43f1c3206, type: 2}

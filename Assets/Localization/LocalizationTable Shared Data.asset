@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizationTable
+  m_TableCollectionNameGuidString: 3519f0b992e51423e8cb90d00c8e809b
+  m_Entries:
+  - m_Id: 1366289276928
+    m_Key: LoadingKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220295708672
+    m_Key: NameKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450902736896
+    m_Key: NameInputField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760136187904
+    m_Key: GenderKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032761753600
+    m_Key: manKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056295993344
+    m_Key: womanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3638729629696
+    m_Key: AgeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3900722634752
+    m_Key: AgeInputField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4232894734336
+    m_Key: RelationshipKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848375291904
+    m_Key: ExistKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285237219328
+    m_Key: NotKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653954289664
+    m_Key: UncertainKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6026739834880
+    m_Key: SendKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6558598553600
+    m_Key: SettingsKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745203138560
+    m_Key: 'EmailKey
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7013038809088
+    m_Key: EmailInputKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8483083640832
+    m_Key: 'MessageKey:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8888068857856
+    m_Key: 'MessageInputKey:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15008120430592
+    m_Key: TellFortuneKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15415609647104
+    m_Key: WatchAdsButtonKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16350503231488
+    m_Key: PlayingFortuneKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16905191546880
+    m_Key: RightKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102618297786368
+    m_Key: ExitKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919733132681216
+    m_Key: InfoLoadingKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321529206464512
+    m_Key: ChangeUserKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321547678179328
+    m_Key: GameInfoKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999779162513408
+    m_Key: AlertPopUpText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999806589067264
+    m_Key: AlertPopUpButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005078162300928
+    m_Key: "Check\u0131nternetPopUpText"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005421172482048
+    m_Key: CheckInternetPopUpText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005783828783104
+    m_Key: CheckInternetPopUpButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6826983605395456
+    m_Key: GoMainScene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6827212681502720
+    m_Key: ShuffleandOpen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6835873730519040
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6856149860081664
+    m_Key: 'WinScreen
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6856361299140608
+    m_Key: LoseScreen
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1829826292235108376
+  references:
+    version: 2
+    RefIds:
+    - rid: 1829826292235108376
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1726396131663

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Loading
+  m_EditorClassIdentifier: 
+  m_GroupName: Loading
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0bd7eb159c86d47088e739d4486e9c97
+  m_SerializeEntries:
+  - m_GUID: ae5b03bbf855b4c3da61da9fad9563a7
+    m_Address: Assets/FortunePlayingCards/ScenePrefabs/LoadingScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 761eaa4bc302d4e41b1295a8fe8a7b05
+    m_Address: Assets/FortunePlayingCards/ScenePrefabs/PlayerInfoScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1daaa5a87a203443baefc85622a087d9
+    m_Address: Assets/FortunePlayingCards/ScenePrefabs/StartingScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 844ccba5bb6734377a0eab3a2cae662e
+    m_Address: Assets/FortunePlayingCards/ScenePrefabs/CheckInternet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d2304018b37564a99b184cbd96524964, type: 2}
+    - {fileID: 11400000, guid: 52bc7eb4853a54477a70bafd934aac48, type: 2}

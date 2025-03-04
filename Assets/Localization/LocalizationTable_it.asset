@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationTable_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 3519f0b992e51423e8cb90d00c8e809b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1366289276928
+    m_Localized: Caricamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220295708672
+    m_Localized: 'Nome:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2450902736896
+    m_Localized: Scrivi il tuo nome...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2760136187904
+    m_Localized: 'Genere:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3032761753600
+    m_Localized: Uomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3056295993344
+    m_Localized: Donne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3638729629696
+    m_Localized: "Et\xE0:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3900722634752
+    m_Localized: "Scrivi la tua et\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4232894734336
+    m_Localized: 'Relazione:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4848375291904
+    m_Localized: Esistere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5285237219328
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5653954289664
+    m_Localized: Incerto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6026739834880
+    m_Localized: Inviare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6558598553600
+    m_Localized: Impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6745203138560
+    m_Localized: E-mail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7013038809088
+    m_Localized: Scrivi la tua email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8483083640832
+    m_Localized: 'Messaggio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8888068857856
+    m_Localized: Scrivi il tuo messaggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15008120430592
+    m_Localized: Predire la fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15415609647104
+    m_Localized: Guarda gli annunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16350503231488
+    m_Localized: Fortuna Delle Carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16905191546880
+    m_Localized: Hai Ragione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102618297786368
+    m_Localized: Disconnettersi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919733132681216
+    m_Localized: Attendi che tutte le carte da gioco vengano rivelate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321547678179328
+    m_Localized: "Dopo che le carte sono state mescolate le carte vengono rivelate
+      in coppia. Se i numeri delle carte sono uguali quelle carte vengono separate.
+      Dopo che tutte le carte del mazzo sono state rivelate viene detta la fortuna
+      poich\xE9 ogni carta ha un significato diverso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2321529206464512
+    m_Localized: Cambia Utente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999779162513408
+    m_Localized: Compila i campi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4999806589067264
+    m_Localized: VA BENE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005078162300928
+    m_Localized: Connessione Internet fallita!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005421172482048
+    m_Localized: Controlla la tua connessione Internet per accedere al gioco.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5005783828783104
+    m_Localized: Riprova
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

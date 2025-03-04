@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Buttons
+  m_EditorClassIdentifier: 
+  m_GroupName: Buttons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8ad7ca7e76de2414db6641325e51337c
+  m_SerializeEntries:
+  - m_GUID: 1007286c832092d4ca0fcba0fad046a3
+    m_Address: Assets/Simple Buttons/Big Buttons/BigPurple.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f4b5e4d7ee5eb14e97739815339826f
+    m_Address: Assets/Simple Buttons/Big Buttons/BigPink.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06f5327c8a8659b44aa589fd6c0f6660
+    m_Address: Assets/Simple Buttons/Big Buttons/BigLigthBlue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b7279b2da06904095b014101b7377e
+    m_Address: Assets/Simple Buttons/Big Buttons/BigTurquoise.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72c72df40bd317b44ab2c02d03f268c7
+    m_Address: Assets/Simple Buttons/Big Buttons/BigGray.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90ced506aa0f51a4289ec49382f4a6ed
+    m_Address: Assets/Simple Buttons/Big Buttons/BigBlue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7194b907763190b4ab82436aaba93472
+    m_Address: Assets/Simple Buttons/Big Buttons/BigGreen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f56cfaaafbdb76142b2daa2a2bcbaaa6
+    m_Address: Assets/Simple Buttons/Icons/Icon_06.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfa964ab0a043df469b90532fedbf383
+    m_Address: Assets/Simple Buttons/Icons/Icon_03.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56f2b8fcb5b037548a4e66082b86910a
+    m_Address: Assets/Simple Buttons/Icons/Icon_02.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 048081c71f5f2684ea62a70df784e96b
+    m_Address: Assets/Simple Buttons/Icons/Icon_04.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7a5b108e9a5745418541eaf28d8f690
+    m_Address: Assets/Simple Buttons/Icons/Icon_05.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21f873ccb806eba4a8b0d99871a6ae77
+    m_Address: Assets/Simple Buttons/Icons/Icon_07.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67cfaa1958461aa4d99b0d0014f10fce
+    m_Address: Assets/Simple Buttons/Icons/Icon_08.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb6e5e0aa59b1f46864354fc693e42f
+    m_Address: Assets/Simple Buttons/Icons/Icon_09.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2650ccf2b858c5946a24b341e88ee198
+    m_Address: Assets/Simple Buttons/Icons/Icon_10.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fb227987c3443a428c776e6762f9d0f
+    m_Address: Assets/Simple Buttons/Icons/Icon_11.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6802180492c22bd4d8af713729ed6038
+    m_Address: Assets/Simple Buttons/Icons/Icon_12.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1cf2ea935a880d4e831b2931d81e750
+    m_Address: Assets/Simple Buttons/Icons/Icon_13.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14a8c8fc76b1c1d4b81b16808e44db74
+    m_Address: Assets/Simple Buttons/Icons/Icon_14.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0b7651b660ee9f408c308c780f61938
+    m_Address: Assets/Simple Buttons/Icons/Icon_15.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a5cf0eacdee74c4dad5e49c69997b9a
+    m_Address: Assets/Simple Buttons/Icons/Icon_16.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8750a9593b15d974ebf8058efe6dc9d7
+    m_Address: Assets/Simple Buttons/Icons/Icon_17.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5029c7fed7284514d86694221f107be4
+    m_Address: Assets/Simple Buttons/Icons/Icon_18.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67a528e9229d50945adcf133dc374584
+    m_Address: Assets/Simple Buttons/Icons/Icon_19.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 971a0bb560b7a6a4390594a07bc34767
+    m_Address: Assets/Simple Buttons/Icons/Icon_20.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59758a65618a2574783f9d038aa1f5b2
+    m_Address: Assets/Simple Buttons/Icons/Icon_21.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6603ebf4f6b49934eac8829b00867cff
+    m_Address: Assets/Simple Buttons/Icons/Icon_22.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b81b7072e3526041a0921e2f40362cc
+    m_Address: Assets/Simple Buttons/Icons/Icon_23.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2790b4e0de9d6cc4ebf379d68c6435b6
+    m_Address: Assets/Simple Buttons/Icons/Icon_24.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95189407016192645af33efd237caa39
+    m_Address: Assets/Simple Buttons/Icons/Icon_25.gif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ffe7ac8ec40988499e8033cfa1f1a4c
+    m_Address: Assets/Simple Buttons/Icons/Icon_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6ca08d326335446885d488ba014d4e2
+    m_Address: Assets/Simple Buttons/close-button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0179d31d14aa44cd18aee143ad1590ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7b35b2838518b4727916a20f04c1e374, type: 2}
+    - {fileID: 11400000, guid: 980dcb95ccf964f5fabde4a8d8bdb253, type: 2}
